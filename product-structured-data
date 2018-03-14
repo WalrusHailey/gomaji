@@ -1,0 +1,34 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "Product",
+  "name": "果然匯/開飯川食堂/饗泰多/大口吃/朵頤餐卷",
+  "image": [
+    "產品圖片1 url",
+    "產品圖片2 url",
+    "產品圖片3 url"
+   ],
+  "description": "只要1320元，即可享有饗食天堂任ㄧ姐妹品牌【果然匯/開飯川食堂/饗泰多/大口吃/朵頤】1500元抵用券一張",
+  "brand": {
+    "@type": "Thing",
+    "name": "響食天堂"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "reviewCount": "982"
+  },
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "TWD",
+    "price": "1320",
+    "priceValidUntil": "2018-03-12",
+    "itemCondition": "http://schema.org/NewCondition",
+    "availability": "http://schema.org/InStock",
+    "seller": {
+      "@type": "Organization",
+      "name": "Gomaji夠麻吉"
+    }
+  }
+}
+</script>
