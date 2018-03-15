@@ -1,0 +1,17 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "url": "http://mweb.gomaji.com/",
+  "logo": "GOMAJI夠麻吉LOGO的URL",
+  "contactPoint": [{
+    "@type": "ContactPoint",
+    "telephone": "+8862-2711-1758",
+    "contactType": "customer service"
+  }],
+  "name": "GOMAJI夠麻吉",
+  "sameAs": [
+    "https://zh-tw.facebook.com/YICHIGOMAJI/"
+  ]
+}
+</script>
